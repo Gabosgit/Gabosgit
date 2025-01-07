@@ -2,8 +2,8 @@
 <h3 align="center">Welcome to my page!</h3>
 
 <p align="center">
-  A passionate frontend developer from Argentina living in Germany <br>
-  I am interested 👀 in the development of web applications in both frontend and backend.
+  I am a passionate musician and frontend developer based in Germany<br>
+  👀 interested in the development of web applications in both frontend and backend.
 </p>
 
 <table align="center">
@@ -24,6 +24,7 @@
         <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
       </p>
     </th>
   </tr>
