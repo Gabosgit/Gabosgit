@@ -43,6 +43,9 @@
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
       </a>
+      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+        <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/>
+      </a>
     </th>
   </tr>
 </table>
