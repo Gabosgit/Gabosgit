@@ -40,11 +40,11 @@
       <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
+      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+        <img src="https://docs.sentry.io/_next/static/media/flask.c9318ff4.svg" alt="flask" width="40" height="40"/>
+      </a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
-      </a>
-      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
-        <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/>
       </a>
     </th>
   </tr>
