@@ -2,8 +2,9 @@
 <h3 align="center">Welcome to my page!</h3>
 
 <p align="center">
-  I am a passionate musician and frontend developer based in Germany<br>
-  👀 interested in the development of web applications in both frontend and backend.
+  Combining my love for music and technology as a software engineer in Germany.<br>
+  I'm especially interested in building robust web applications and have experience in both<br>
+  frontend and backend development.
 </p>
 
 <table align="center">
