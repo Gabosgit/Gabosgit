@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my page!</h3>
 
 <p align="center">
-  Combining my love for music and technology as a software engineer in Germany.<br>
-  I'm especially interested in building robust web applications and have experience in both<br>
-  frontend and backend development.
+  Combining my love for <b>music</b> and <b>technology</b> as a software engineer in Germany.<br>
+  I'm especially interested in building robust <b>web applications</b> and have experience in both<br>
+  <b>frontend</b> and <b>backend</b> development.
 </p>
 
 <table align="center">
