@@ -26,6 +26,9 @@
         <a href="https://jquery.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40"/>
         </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/>
+        </a>
     </th>
     <th>
       <h3 align="center"> I’m currently learning </h3>
@@ -46,6 +49,9 @@
       </a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="40" height="40"/>
       </a>
     </th>
   </tr>
