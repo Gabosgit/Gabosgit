@@ -2,7 +2,12 @@
 <h3 align="center">Welcome to my page!</h3>
 
 <p align="center">
-  A Software Engineering with a unique blend of artistic discipline and technical precision. After years leading musical productions and performing internationally, I bring the same focus, structure, and collaborative mindset to software engineering. I thrive where creativity meets logic, turning complex ideas into clear, functional solutions.
+  Software Developer passionate about full stack web applications that deliver real user value. Strong background in
+building responsive, user-focused interfaces with React, JavaScript, HTML5, and CSS3, combined with hands-on
+backend development using Python, FastAPI, PostgreSQL, SQLAlchemy, and Docker. Focused on creating seamless user
+experiences, clean architectures, and maintainable systems. Continuous learner with a product mindset and strong
+project coordination experience from previous work in the music industry. Seeking a Full Stack role in a hands-on, tech-
+driven team.
 </p>
 <br>
 <h3 align="center"> languages and tools </h3>
